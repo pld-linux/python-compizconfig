@@ -15,6 +15,7 @@ BuildRequires:	python-Pyrex
 BuildRequires:	python-devel >= 1:2.5
 BuildRequires:	rpm-pythonprov
 Requires:	glib2 >= 1:2.6
+Obsoletes:	compizconfig-python
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
