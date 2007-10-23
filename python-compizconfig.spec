@@ -1,12 +1,12 @@
 Summary:	Python bindings for the compizconfig library
 Summary(pl.UTF-8):	Pythonowe dowiązania do biblioteki compizconfig
 Name:		python-compizconfig
-Version:	0.6.0
+Version:	0.6.0.1
 Release:	1
 License:	LGPL v2+
 Group:		Libraries/Python
 Source0:	http://releases.compiz-fusion.org/%{version}/compizconfig-python-%{version}.tar.bz2
-# Source0-md5:	833766210e7a95801a3aa0c09980ec65
+# Source0-md5:	903758361f39ce62a8fabbbbbf36887c
 URL:		http://forum.compiz-fusion.org/
 BuildRequires:	glib2-devel >= 1:2.6
 BuildRequires:	libcompizconfig-devel >= %{version}
