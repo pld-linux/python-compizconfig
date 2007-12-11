@@ -9,7 +9,7 @@ Source0:	http://releases.compiz-fusion.org/%{version}/compizconfig-python-%{vers
 # Source0-md5:	903758361f39ce62a8fabbbbbf36887c
 URL:		http://forum.compiz-fusion.org/
 BuildRequires:	glib2-devel >= 1:2.6
-BuildRequires:	libcompizconfig-devel >= %{version}
+BuildRequires:	libcompizconfig-devel >= 0.6.0
 BuildRequires:	pkgconfig
 BuildRequires:	python-Pyrex
 BuildRequires:	python-devel >= 1:2.5
