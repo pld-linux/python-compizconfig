@@ -1,15 +1,15 @@
 Summary:	Python bindings for the compizconfig library
 Summary(pl.UTF-8):	Pythonowe dowiązania do biblioteki compizconfig
 Name:		python-compizconfig
-Version:	0.7.8
-Release:	5
+Version:	0.8.2
+Release:	1
 License:	LGPL v2+
 Group:		Libraries/Python
 Source0:	http://releases.compiz-fusion.org/%{version}/compizconfig-python-%{version}.tar.bz2
-# Source0-md5:	f75c3a5a3ef770280e46c3a762d456e3
+# Source0-md5:	7c6e8cbbbf629fb99ff7570d117355fb
 URL:		http://forum.compiz-fusion.org/
 BuildRequires:	glib2-devel >= 1:2.6
-BuildRequires:	libcompizconfig-devel >= 0.6.0
+BuildRequires:	libcompizconfig-devel >= 0.8.2
 BuildRequires:	pkgconfig
 BuildRequires:	python-Pyrex
 BuildRequires:	python-devel >= 1:2.5
