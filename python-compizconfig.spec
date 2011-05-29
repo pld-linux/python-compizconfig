@@ -3,7 +3,7 @@ Summary:	Python bindings for the compizconfig library
 Summary(pl.UTF-8):	Pythonowe dowiązania do biblioteki compizconfig
 Name:		python-compizconfig
 Version:	0.8.4
-Release:	3
+Release:	4
 License:	LGPL v2+
 Group:		Libraries/Python
 Source0:	http://releases.compiz.org/%{version}/%{pkgname}-%{version}.tar.bz2
